@@ -3,7 +3,7 @@
 ### Ohhey! I'm [Aditya Uniyal](https://alekady7.github.io) 😀
 
 ## I'm an Engineering student and also a Frontend Developer
-- 🎓 I'm currently in the Third Year of Engineering
+- 🎓 I'm currently in the Fourth Year of Engineering
 - 💻 Mostly, I deal with Frontend development but also dive into other fields like blockchain development sometimes
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
 - 👨‍💻 Trying to learn and dig deeper into blockchain these days
