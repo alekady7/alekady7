@@ -4,7 +4,7 @@
 
 ## I'm an Engineering student and also a Frontend Developer
 - 🎓 I'm currently in the Fourth Year of Engineering
-- 💻 Mostly, I deal with Frontend development but also dive into other fields like blockchain development sometimes
+- 💻 Mostly, I deal with Frontend development 
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
 - 👨‍💻 Trying to learn and dig deeper into blockchain these days
 
