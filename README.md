@@ -32,11 +32,11 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ## Connect with me
 
-[<img align="left" alt="@ayamdobhal | Twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />](https://twitter.com/ayamdobhal)
+[<img align="left" alt="@adityauniyal | Twitter" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />](https://twitter.com/adityauniyal)
 
 [<img align="left" alt="Aditya Uniyal | YouTube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-512.png" />](https://www.youtube.com/@adityauniyal1485)
 
-[<img align="left" alt="Ayam Dobhal | XDA-Developers" width="26px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png" />](https://forum.xda-developers.com/m/alekady7.12601001/)
+[<img align="left" alt="Aditya Uniyal | XDA-Developers" width="26px" src="https://icons.veryicon.com/png/o/object/material_design_icons/xda-7.png" />](https://forum.xda-developers.com/m/alekady7.12601001/)
 
 [<img align="left" alt="Aditya Uniyal | Instagram" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />](https://instagram.com/aditya._uniyal)
 
