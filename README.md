@@ -6,7 +6,7 @@
 - 🎓 I'm currently in the Fourth Year of Engineering
 - 💻 Mostly, I deal with Frontend development 
 - ⚽ Goals: To learn more programming languages and focus on writing cleaner and more efficient code
-- 👨‍💻 Trying to learn and dig deeper into blockchain these days
+- 👨‍💻 Learning web-security these days
 
 ## Languages and Tools
 
