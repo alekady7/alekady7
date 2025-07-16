@@ -46,7 +46,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ### Music?
 
-<a href="https://last.fm/user/ayamdobhal" target="_blank">
+<a href="https://last.fm/user/adityauniyal" target="_blank">
   <img 
     src="https://novatorem-ayamdobhal.vercel.app/api/spotify?background_color=0d1117&border_color=00ecff"
     alt="Either Vercel or Spotify decided to ditch me can't help."
@@ -54,7 +54,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </a>
 <br />
 <br />
-
-![Aditya Uniyal's Github Stats](https://github-readme-activity-graph.cyclic.app/graph?username=alekady7&theme=react-dark)
-<br />
-<img alt="Aditya Uniyal's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=alekady7&theme=gotham" />
