@@ -44,7 +44,16 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 
-## GitHub Stats
+### Music?
+
+<a href="https://last.fm/user/ayamdobhal" target="_blank">
+  <img 
+    src="https://novatorem-ayamdobhal.vercel.app/api/spotify?background_color=0d1117&border_color=00ecff"
+    alt="Either Vercel or Spotify decided to ditch me can't help."
+  >
+</a>
+<br />
+<br />
 
 ![Aditya Uniyal's Github Stats](https://github-readme-activity-graph.cyclic.app/graph?username=alekady7&theme=react-dark)
 <br />
